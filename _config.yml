@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repository: https://github.com/ArcherSavitar/archersavitar.github.io
-  branch: main
+  branch: master
