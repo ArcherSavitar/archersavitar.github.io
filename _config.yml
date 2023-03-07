@@ -105,3 +105,4 @@ deploy:
   type: git
   repository: https://github.com/ArcherSavitar/archersavitar.github.io
   branch: master
+  token: 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
